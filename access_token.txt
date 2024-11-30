@@ -1,0 +1,6 @@
+1. Run
+
+docker login -u geob01
+2. At the password prompt, enter the personal access token.
+
+dckr_pat_rWsEcC577IHLffuKYzjyJZDzH1w
